@@ -1,1 +1,1 @@
-# saiz
+# •	As a React.js Developer, I utilized MongoDB and Redux along with Typescript to create an AI-based machine learning tool with backend based in Python to digitize the clothing industry and accurately predict sizes for online customers.
